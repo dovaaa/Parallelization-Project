@@ -7,7 +7,7 @@ Collaborators:
 
 3.https://github.com/dovaaa
 
-A small university project to parallelize Histogram Creation Using [OpenMp](https://www.openmp.org/) and [MPI](https://www.open-mpi.org/)
+A small university project to parallelize Histogram Creation Using [OpenMp](https://www.openmp.org/) and [MPICH](https://www.open-mpi.org/)
 
 Project needs to be built using mpicc which is available in [MPICH package](https://www.mpich.org/)
 
